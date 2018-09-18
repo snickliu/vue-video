@@ -70,12 +70,5 @@
   },
   "ci": {
     "version": "8, 9"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hubcarl/egg-vue-webpack-boilerplate.git"
-  },
-  "author": "snickliu",
-  "license": "MIT",
-  "homepage": "https://github.com/hubcarl/egg-vue-webpack-boilerplate"
+  }
 }
