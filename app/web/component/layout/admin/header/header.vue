@@ -72,8 +72,8 @@ export default {
     return {
       collapse: false,
       site: {
-        name: 'We-Blog',
-        description: 'IBlog'
+        name: 'We-V-Happy',
+        description: 'V-Happy'
       }
     };
   },
@@ -83,7 +83,7 @@ export default {
       e.preventDefault();
       if (this.collapse) {
         document.body.classList.remove("sidebar-hidden");
-        this.siteName = 'IBlog';
+        this.siteName = 'V-Happy';
         this.collapse = false;
       } else {
         document.body.classList.add("sidebar-hidden");
@@ -100,7 +100,7 @@ export default {
   mounted: function() {
     if (!this.collapse) {
       document.body.classList.remove('sidebar-hidden');
-      this.siteName = 'IBlog';
+      this.siteName = 'V-Happy';
     } else {
       document.body.classList.add('sidebar-hidden');
     }
