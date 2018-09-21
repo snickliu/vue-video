@@ -74,14 +74,14 @@
 								<h2>TV</h2>
 							</div>
 							<div class="row">
-								<div id="owl-demo-1" class="owl-carousel">
-									<div class="item wrap-vid">
+								<div id="owl-demo-1" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
+									<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 3184px; left: 0px; display: block;"><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/1.jpg" />
+												<img src="../../asset/images/1.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -90,14 +90,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/2.jpg" />
+												<img src="../../asset/images/2.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -106,14 +105,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/3.jpg" />
+												<img src="../../asset/images/3.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -122,14 +120,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/4.jpg" />
+												<img src="../../asset/images/4.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -138,14 +135,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/5.jpg" />
+												<img src="../../asset/images/5.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -154,14 +150,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/14.jpg" />
+												<img src="../../asset/images/14.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -170,14 +165,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/3.jpg" />
+												<img src="../../asset/images/3.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -186,14 +180,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/5.jpg" />
+												<img src="../../asset/images/5.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -202,8 +195,15 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-								</div>
+									</div></div></div></div>
+									
+									
+									
+									
+									
+									
+									
+								<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev">prev</div><div class="owl-next">next</div></div></div></div>
 							</div>
 						</section>
 						
@@ -212,14 +212,14 @@
 								<h2>Sport</h2>
 							</div>
 							<div class="row"><!--Start Box-->
-								<div id="owl-demo-2" class="owl-carousel">
-									<div class="item wrap-vid">
+								<div id="owl-demo-2" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
+									<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 3184px; left: 0px; display: block;"><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/1.jpg" />
+												<img src="../../asset/images/1.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -228,14 +228,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/2.jpg" />
+												<img src="../../asset/images/2.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -244,14 +243,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/3.jpg" />
+												<img src="../../asset/images/3.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -260,14 +258,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/4.jpg" />
+												<img src="../../asset/images/4.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -276,14 +273,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/5.jpg" />
+												<img src="../../asset/images/5.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -292,14 +288,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/14.jpg" />
+												<img src="../../asset/images/14.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -308,14 +303,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/3.jpg" />
+												<img src="../../asset/images/3.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -324,14 +318,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/5.jpg" />
+												<img src="../../asset/images/5.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -340,8 +333,15 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-								</div>
+									</div></div></div></div>
+									
+									
+									
+									
+									
+									
+									
+								<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev">prev</div><div class="owl-next">next</div></div></div></div>
 							</div>
 						</section>
 						
@@ -350,14 +350,14 @@
 								<h2>Music</h2>
 							</div>
 							<div class="row"><!--Start Box-->
-								<div id="owl-demo-3" class="owl-carousel">
-									<div class="item wrap-vid">
+								<div id="owl-demo-3" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
+									<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 3184px; left: 0px; display: block;"><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/1.jpg" />
+												<img src="../../asset/images/1.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -366,14 +366,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/2.jpg" />
+												<img src="../../asset/images/2.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -382,14 +381,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/3.jpg" />
+												<img src="../../asset/images/3.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -398,14 +396,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/4.jpg" />
+												<img src="../../asset/images/4.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -414,14 +411,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/5.jpg" />
+												<img src="../../asset/images/5.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -430,14 +426,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/14.jpg" />
+												<img src="../../asset/images/14.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -446,14 +441,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/3.jpg" />
+												<img src="../../asset/images/3.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -462,14 +456,13 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-									<div class="item wrap-vid">
+									</div></div><div class="owl-item" style="width: 199px;"><div class="item wrap-vid">
 										<div class="zoom-container">
 											<a href="single.html">
 												<span class="zoom-caption">
 													<i class="icon-play fa fa-play"></i>
 												</span>
-												<img src="../../asset/images/5.jpg" />
+												<img src="../../asset/images/5.jpg">
 											</a>
 										</div>
 										<h3 class="vid-name"><a href="#">Video's Name</a></h3>
@@ -478,8 +471,15 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div>
-								</div>
+									</div></div></div></div>
+									
+									
+									
+									
+									
+									
+									
+								<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev">prev</div><div class="owl-next">next</div></div></div></div>
 							</div>
 						</section>
 					</div>
@@ -506,7 +506,7 @@
 										<span class="zoom-caption">
 											<i class="icon-play fa fa-play"></i>
 										</span>
-										<img src="../../asset/images/4.jpg" />
+										<img src="../../asset/images/4.jpg">
 									</a>
 								</div>
 								<div class="wrapper">
@@ -524,7 +524,7 @@
 										<span class="zoom-caption">
 											<i class="icon-play fa fa-play"></i>
 										</span>
-										<img src="../../asset/images/14.jpg" />
+										<img src="../../asset/images/14.jpg">
 									</a>
 								</div>
 								<div class="wrapper">
@@ -542,7 +542,7 @@
 										<span class="zoom-caption">
 											<i class="icon-play fa fa-play"></i>
 										</span>
-										<img src="../../asset/images/3.jpg" />
+										<img src="../../asset/images/3.jpg">
 									</a>
 								</div>
 								<div class="wrapper">
@@ -569,7 +569,7 @@
 											<span class="zoom-caption">
 												<i class="icon-play fa fa-play"></i>
 											</span>
-											<img src="../../asset/images/1.jpg" />
+											<img src="../../asset/images/1.jpg">
 										</a>
 									</div>
 									<h3 class="vid-name">Video's Name</h3>
@@ -587,7 +587,7 @@
 											<span class="zoom-caption">
 												<i class="icon-play fa fa-play"></i>
 											</span>
-											<img src="../../asset/images/2.jpg" />
+											<img src="../../asset/images/2.jpg">
 										</a>
 									</div>
 									<h3 class="vid-name">Video's Name</h3>
@@ -605,7 +605,7 @@
 											<span class="zoom-caption">
 												<i class="icon-play fa fa-play"></i>
 											</span>
-											<img src="../../asset/images/4.jpg" />
+											<img src="../../asset/images/4.jpg">
 										</a>
 									</div>
 									<h3 class="vid-name">Video's Name</h3>
@@ -650,7 +650,6 @@
   @import "../../asset/css/owl.carousel.css";
 </style>
 <script type="babel">
-// import  s from '../../../../video/js/owl.carousel.js'
   export default {
     components: {
 
