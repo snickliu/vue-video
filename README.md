@@ -88,14 +88,6 @@
 - 提供 i18n 多语言示例
 
 
-## 2.依赖
-
-- [easywebpack](https://github.com/hubcarl/easywebpack) ^4.x.x
-- [easywebpack-vue](https://github.com/hubcarl/easywebpack) ^4.x.x
-- [egg-view-vue-ssr](https://github.com/hubcarl/egg-view-vue-ssr) ^3.x.x
-- [egg-webpack](https://github.com/hubcarl/egg-webpack) ^3.x.x
-- [egg-webpack-vue](https://github.com/hubcarl/egg-webpack-vue) ^2.x.x
-
 
 ## 3. 使用
 
