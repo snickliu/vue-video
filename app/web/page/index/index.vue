@@ -196,17 +196,9 @@
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
 									</div></div></div></div>
-									
-									
-									
-									
-									
-									
-									
 								<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev">prev</div><div class="owl-next">next</div></div></div></div>
 							</div>
 						</section>
-						
 						<section class="vid-sport">
 							<div class="header">
 								<h2>Sport</h2>
@@ -333,18 +325,10 @@
 											<span><i class="fa fa-calendar"></i>25/3/2015</span> 
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
-									</div></div></div></div>
-									
-									
-									
-									
-									
-									
-									
+									</div></div></div></div>	
 								<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev">prev</div><div class="owl-next">next</div></div></div></div>
 							</div>
 						</section>
-						
 						<section class="vid-music">
 							<div class="header">
 								<h2>Music</h2>
@@ -472,14 +456,7 @@
 											<span><i class="fa fa-heart"></i>1,200</span>
 										</div>
 									</div></div></div></div>
-									
-									
-									
-									
-									
-									
-									
-								<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev">prev</div><div class="owl-next">next</div></div></div></div>
+							<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev">prev</div><div class="owl-next">next</div></div></div></div>
 							</div>
 						</section>
 					</div>
