@@ -11,12 +11,10 @@
     name:'v-content',
     data(){
       return {
-
       }
     },
     components: {},
     mounted() {
-
     }
   };
 </script>
